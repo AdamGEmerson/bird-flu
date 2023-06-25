@@ -1,2 +1,0 @@
-0 * * * 5-6 ~/bird-flu/cron_script.sh >> bird-flu.txt 2>&1
-
